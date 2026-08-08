@@ -28,7 +28,7 @@ Actualmente estoy buscando una oportunidad de práctica empresarial que me permi
 
 ### Bases de datos
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-### Herramientas
+
 ### Herramientas
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
